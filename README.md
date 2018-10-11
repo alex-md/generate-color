@@ -1,2 +1,2 @@
-# project_euler
-Answers to the challenges as I complete them
+# Color generator
+use the provided github pages link above to use
